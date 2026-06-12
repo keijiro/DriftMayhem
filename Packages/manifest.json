@@ -1,9 +1,9 @@
 {
   "dependencies": {
     "com.unity.build-report-inspector": "0.3.0-preview",
-    "com.unity.cloud.gltfast": "6.19.0",
     "com.unity.inputsystem": "1.19.0",
     "com.unity.render-pipelines.universal": "17.3.0",
+    "jp.keijiro.gltfast-tweaks": "1.1.1",
     "jp.keijiro.kino.post-processing.eight.universal": "2.0.1",
     "jp.keijiro.klutter-tools": "2.6.0",
     "com.unity.modules.audio": "1.0.0",
